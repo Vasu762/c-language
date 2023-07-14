@@ -1,0 +1,13 @@
+#include<stdio.h>
+	void 10to1()
+	{
+		int i;
+		for(i=10;i>=0;i--)
+		{
+		printf("%d",i):
+		}
+	}
+int main()
+{
+	10to1();
+}
